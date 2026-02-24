@@ -51,7 +51,8 @@
           "name": "Starter Code",
           "file": "starter-code.py",
           "type": "python"
-        },
+        }
+      ]
     },
     {
       "id": "fastapi-rest-apis",
